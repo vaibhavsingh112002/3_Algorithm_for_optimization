@@ -1,0 +1,8 @@
+using Plots
+x=1:15
+y=100:115
+f(x,y)=begin
+	x^2+y^2
+	end
+contour(x,y,f,fill=true,plot_title="contour plot")
+savefig("output/plot.png)
