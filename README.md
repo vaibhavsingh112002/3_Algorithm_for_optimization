@@ -1,1 +1,1 @@
-Click on **view code** above to open and view algorithm practical
+Click on **'VIEW CODE'** above to open and view algorithm practical
